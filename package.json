@@ -2,7 +2,7 @@
   "name": "bs-nav-tabs-memorable",
   "version": "0.1.0",
   "description": "Uses js.cookie to remember last nav-tab selected, and persist the open tab the next time the page is loaded.",
-  "main": "bs-nav-tabs-memorable.js",
+  "main": "index.js",
   "repository": "github.com/drosboro/bs-nav-tabs-memorable",
   "author": "Dave Rosborough",
   "license": "MIT",
