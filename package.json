@@ -5,5 +5,8 @@
   "main": "bs-nav-tabs-memorable.js",
   "repository": "github.com/drosboro/bs-nav-tabs-memorable",
   "author": "Dave Rosborough",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "js-cookie": "^2.1.4"
+  }
 }
